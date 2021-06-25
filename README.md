@@ -1,6 +1,6 @@
 ### Hi there 👋
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
-<img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>&nbsp 
+ <a href="https://velog.io/@woo0_hooo" rel="nofollow"><img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a> 
 
 <!--
 **sein0211/sein0211** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
