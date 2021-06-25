@@ -1,3 +1,4 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=FE2E9A&height=300&section=header&text=Sein%20Lee&fontSize=85&fontColor=FFFFFF)
 ### Hi there 👋
 
 <!-- 🛠 Tech Stack 🛠 -->
