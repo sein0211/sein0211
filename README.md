@@ -6,7 +6,7 @@
 
 - 📒  **My blog ...** [![Tech Blog Badge](http://img.shields.io/badge/Tech%20blog-black?style=flat-square&logo=blogger&logoColor=white&link=https://velog.io/@sein)](https://velog.io/@sein)
 
-- 📺  **My Instagram...**[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/23._.in/)](https://www.instagram.com/23._.in/)   
+- :rabbit:  **My Instagram...**[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/23._.in/)](https://www.instagram.com/23._.in/)   
 
 
 <!--
