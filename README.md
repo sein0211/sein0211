@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=rect&color=FE2E9A&height=200&section=header&text=Sein%20Lee&fontSize=85&fontColor=FFFFFF)
+![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&fontAlign=30&fontSize=30&textBg=true&desc=Use%20%27textBg%27%20to%20highlight%20%27text%27&descAlign=60&descAlignY=50&text=Sein%20LeeF)
 ### Hi there 👋
 
 <!-- 🛠 Tech Stack 🛠 -->
