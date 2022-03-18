@@ -7,7 +7,7 @@
 ### How to reach me? 🤔
 - 📫  **My email ...**[![Gmail Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:emliy4037@naver.com)](mailto:emliy4037@naver.com)
 
-- 📒  **My blog1 ...** [![Tech Blog Badge](http://img.shields.io/badge/Tech%20blog-black?style=flat-square&logo=blogger&logoColor=white&link=https://spark-aster-4ad.notion.site/SEIN-baa0a6c51bb5467aad0ac2781b4c9341)](https://23in.notion.site/efc53dc6c4c640f59af550be4eebb060)
+- 📒  **My blog1 ...** [![Tech Blog Badge](http://img.shields.io/badge/Tech%20blog-black?style=flat-square&logo=blogger&logoColor=white&link=https://spark-aster-4ad.notion.site/SEIN-baa0a6c51bb5467aad0ac2781b4c9341)](https://23in.notion.site/SEIN-baa0a6c51bb5467aad0ac2781b4c9341)
 
 - 📒  **My blog2 ...** [![Tech Blog Badge](http://img.shields.io/badge/Tech%20blog-black?style=flat-square&logo=blogger&logoColor=white&link=https://velog.io/@sein)](https://velog.io/@sein)
 
